@@ -27,5 +27,5 @@ readln(Th),nl.
 		
 goal
 %tanggal("10","4","1997,20,3,2017,Anda_hidup,Umur_anda),
-	tanggal(Tgl,Bl,Th),
+	tanggal(Tgl,Bl,Th).
 	ramalan(Zodiak,Umur,Sifat).
