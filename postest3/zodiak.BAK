@@ -87,5 +87,5 @@ zodiak_ok(Res,B):-
 	Bl="oktober",
 	Res="Lucu".
 goal
-  tanggal(Tgl,Bl,Th);
+  tanggal(Tgl,Bl,Th),
   zodiak(Zoo).
